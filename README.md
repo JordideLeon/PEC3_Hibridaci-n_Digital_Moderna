@@ -24,6 +24,8 @@ En este ensayo analizaremos dos propuestas claras de esta hibridación digital: 
 
 *Imagen: AVORE STUDIO. Usada con fines universitarios: www.avore.io*
 
+**URL oficial:** https://www.arvore.io/theline 
+
 **Autores**: Ricardo Laganaro y equipo de Avore Studio
 
 ### Descripción
@@ -40,7 +42,27 @@ En este ensayo analizaremos dos propuestas claras de esta hibridación digital: 
 
 ### Innovación tecnológica y cultural
 
-*The Line* representa 
+*The Line* representa una gran innovación tanto en lo tecnológico como en lo cultural. Si hablamos de nivel técnico, utiliza la realidad virtual y motores gráficos para transformar una narrativa tradicional en una experiencia interactiva. A nivel culturar, propone nievas fromas para contar las historias, alejándose de lo clásico como la pnatalla en plano y buscando una inmersión sensorial y una participación activa. Este tipo de proyectos redefino lo que conocemos como cine, teatro o videojuegos, y abre una nuevo froma de arte híbrido.
+
+
+### Conclusión
+
+*The Line* a líneas generales representa muy bien un caso de hibridación moderna, donde convinando diferentes formas de consumo, como es el teatro, cine o videojuegos, con la realidad virtual, consigue crear una experiencia interactiva y única nunca antes experimentada. Define muy bien lo que Lev Manovich explica en su libro, donde una herramienta de software pasa de ser simple a fusionarse y ser algo nuevo y complejo.
+
+## Caso 2: Google Arts & Culture Experiments - Interfaz cultural
+
+![Logo Goolge Arts&Culture](https://static.wikia.nocookie.net/logopedia/images/3/37/Google-Arts-Culture-Logo.png/revision/latest/scale-to-width-down/1000?cb=20241012145112)
+
+
+*Imagen: Logos-World. Usada para fines universitarios: https://www.clipartmax.com/*
+
+**URL oficial:** https://artsandculture.google.com/  
+
+**Laboratorio:** https://experiments.withgoogle.com/collection/arts-culture
+
+### Descripción
+
+*Google Arts & Culture* es una plataforma digital desarrolada por **Google** en colaboración con museos de todo el mundo. Su objetivo principal es **acercar el arte y el patrimonio cultural** al público general a través de herramientas tecnológicas. Su lema es **14 years. 1611 experiments**, la platafrome propone una gran variedad de froams de interactuación con el arte: desde a explorar museos en realidad virtual hasta generar música y canciones utilizando la inteligencia artificial.
 
 
 Licencia: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
