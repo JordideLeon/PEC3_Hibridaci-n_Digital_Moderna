@@ -54,7 +54,7 @@ En este ensayo analizaremos dos propuestas claras de esta hibridación digital: 
 ![Logo Goolge Arts&Culture](https://static.wikia.nocookie.net/logopedia/images/3/37/Google-Arts-Culture-Logo.png/revision/latest/scale-to-width-down/1000?cb=20241012145112)
 
 
-*Imagen: Logos-World. Usada para fines universitarios: https://www.clipartmax.com/*
+*Imagen: Logos-World. Usada para fines universitarios:https://logos-world.net/google-arts-culture-logo/*
 
 **URL oficial:** https://artsandculture.google.com/  
 
