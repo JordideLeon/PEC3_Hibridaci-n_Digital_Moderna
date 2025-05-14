@@ -72,9 +72,38 @@ Uno de los experimentos que no ofrece Google Arts & Culture es **Art Selfie**. S
 ### Hibridación digital
 
 - **Combinación de arte clásico, inteligencia artificial y cultura digital contemporánea**: Art Selfie permite al usuario tomarse una foto y encontrar retratos de obras de orte históricas similares a el. Esto une dos mundos como son, *el selfie cotidiano*, un símbolo de la actual cultura digital, y de los archivos artísticos de todos los museos del mundo, tradicionalmente estáticos y alejados del usuario común.
-- **Uso de visión 
+- **Uso de visión por computadora y aprendizaje cultural**: El software analiza y estudia los rasgos faciales de la persona y los compara con miles de retratos, esto es automático, antes era solo contenido de expertos y archivistas, ahora está al alcance de cualquier persona gracias a la IA, lo que amplía el conocimiento cultural.
+- **Transformación del museo en una experiencia personalizada e interactiva**: En lugar de observar pasivamente los retratos artísticos en museos o imágenes, el usuario se convierte en un protagonista de la navegación. Se convierte en un juego visual que refuerza la conxeión entre el arte y el usuario.
+- **Fusión entre archivo digital y experiencia lúdica**: *Art Selfie* es también una forma divertida de acercarse al arte, mezclando lo educativo con el juego. Al final, lo que era una base de datos de cuadros se convierte en una experiencia interactiva que mucha gente comparte en redes, haciendo llegar así el arte clásico a muchas más personas de una manera sencilla y entretenida.
 
 
+### Innovación tecnológica y cultural
+
+**Google Arts & Culture** introduce un modelo de innovaciónque combina IA, visualización de datos y accesibilidad cultural. Con *ArtSelfie*, el gesto cotidiano de hacerse una *selfie* llega a ser la entrada al conocimiento de la cultura global artística. Esta fusión entre lo cotidiano y lo museístico es un ejemplo claro de como el software reconfigura no solo los medios, sino nuestra forma de interactuar con la historia, cultura general y arte.
+
+
+### Conclusión
+
+*Google Arts & Culture* nos muestra y enseña a como los algoritmos reconfiguran el acceso al conocimiento y arte, convirtiendo al usuario en un explorador activo. A través de experimentos como *ArtSelfie*, lo que antes era un archivo lejano o dificil acceso para algunas personas, se convierte en un experiencia lúdica interactiva y accesible. Esta hibridación entre IA, bases de datos culturales y cultura digital no solo moderniza el acceso al arte, si no que crea una experiencia única, más accesible, visual y compartible.
+
+
+### Reflexíon final
+
+En estos dos casos podemos ver claramente cómo el software no solo tranforma los medios, sino que redefine nuestra relación con la cultura. *The Line* nos hace vivir una historia desde dentro, a través de una experiencia emocional e inmersiva guiada por un código. *Google Arts & Culture* en cambio, toma algo tan cotidiano como un selfie y lo convierte en una puerta de entrada al arte clásico gracias a la IA. 
+Ambos ejemplos reflejan el cambio que señala Manovich, **el software no es solo una herramienta, es el nuevo medio**. Organiza, interpreta y sobre todo mezcla. Esto hace que podamos crear experiencias que antes eran impensables, combinando lo analógico con con lo digital. 
+Hoy en día vivimos en una época dónde la cultura es mas híbrida y entender bien como el software estructura estas nuevas formas es clave, ya no es suficiente con ver o consumir, ahora hay que  **participar, explorar y crear**.
+
+### Referencias
+
+- Manovich, L. (s.f.). El software toma el mando. Editorial Advisory Board.
+- Adell Español, F. (2024). Fundamentos y evolución de la multimedia. UOC.
+- Markdown. (s.f.). La guía definitiva en español. https://markdown.es/
+- ARVORE Studio. (2020). *The Line*. https://www.arvore.io/theline
+- Unity Technologies. https://unity.com/
+- Google Arts & Culture. https://artsandculture.google.com
+- Google Labs. https://labs.google
+- Art Selfie Experiment. https://artsandculture.google.com/experiment/art-selfie/
+- 
 
 
 Licencia: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
