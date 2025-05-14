@@ -90,7 +90,9 @@ Uno de los experimentos que no ofrece Google Arts & Culture es **Art Selfie**. S
 ### Reflexíon final
 
 En estos dos casos podemos ver claramente cómo el software no solo tranforma los medios, sino que redefine nuestra relación con la cultura. *The Line* nos hace vivir una historia desde dentro, a través de una experiencia emocional e inmersiva guiada por un código. *Google Arts & Culture* en cambio, toma algo tan cotidiano como un selfie y lo convierte en una puerta de entrada al arte clásico gracias a la IA. 
+
 Ambos ejemplos reflejan el cambio que señala Manovich, **el software no es solo una herramienta, es el nuevo medio**. Organiza, interpreta y sobre todo mezcla. Esto hace que podamos crear experiencias que antes eran impensables, combinando lo analógico con con lo digital. 
+
 Hoy en día vivimos en una época dónde la cultura es mas híbrida y entender bien como el software estructura estas nuevas formas es clave, ya no es suficiente con ver o consumir, ahora hay que  **participar, explorar y crear**.
 
 ### Referencias
@@ -103,7 +105,7 @@ Hoy en día vivimos en una época dónde la cultura es mas híbrida y entender b
 - Google Arts & Culture. https://artsandculture.google.com
 - Google Labs. https://labs.google
 - Art Selfie Experiment. https://artsandculture.google.com/experiment/art-selfie/
-- 
+  
 
 
 Licencia: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
