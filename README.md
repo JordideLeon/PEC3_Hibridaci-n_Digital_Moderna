@@ -64,6 +64,18 @@ En este ensayo analizaremos dos propuestas claras de esta hibridación digital: 
 
 *Google Arts & Culture* es una plataforma digital desarrolada por **Google** en colaboración con museos de todo el mundo. Su objetivo principal es **acercar el arte y el patrimonio cultural** al público general a través de herramientas tecnológicas. Su lema es **14 years. 1611 experiments**, la platafrome propone una gran variedad de froams de interactuación con el arte: desde a explorar museos en realidad virtual hasta generar música y canciones utilizando la inteligencia artificial.
 
+### Experimento: Art Selfie
+**URL:** (https://artsandculture.google.com/camera/selfie)
+
+Uno de los experimentos que no ofrece Google Arts & Culture es **Art Selfie**. Se trata de una herramienta que permite al usuario tomarse una foto y descubrir a qué retratos artísticos se parece, usando una visión algorítmica para buscar coincidencias visuales entre el selfie y miles de obras de arte de retratos entre los miles de museos de todo el mundo.
+
+### Hibridación digital
+
+- **Combinación de arte clásico, inteligencia artificial y cultura digital contemporánea**: Art Selfie permite al usuario tomarse una foto y encontrar retratos de obras de orte históricas similares a el. Esto une dos mundos como son, *el selfie cotidiano*, un símbolo de la actual cultura digital, y de los archivos artísticos de todos los museos del mundo, tradicionalmente estáticos y alejados del usuario común.
+- **Uso de visión 
+
+
+
 
 Licencia: [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
