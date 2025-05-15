@@ -24,7 +24,7 @@ En este ensayo analizaremos dos propuestas claras de esta hibridación digital: 
 
 *Imagen: AVORE STUDIO. Usada con fines universitarios: www.avore.io*
 
-**URL oficial:** https://www.arvore.io/theline 
+**URL oficial:** [https://www.arvore.io/theline ](https://arvore.io/project/the-line)
 
 **Autores**: Ricardo Laganaro y equipo de Avore Studio
 
