@@ -100,7 +100,7 @@ Hoy en día vivimos en una época dónde la cultura es mas híbrida y entender b
 - Manovich, L. (s.f.). El software toma el mando. Editorial Advisory Board.
 - Adell Español, F. (2024). Fundamentos y evolución de la multimedia. UOC.
 - Markdown. (s.f.). La guía definitiva en español. https://markdown.es/
-- ARVORE Studio. (2020). *The Line*. https://www.arvore.io/theline
+- ARVORE Studio. (2020). *The Line*.[ https://www.arvore.io/theline](https://arvore.io/project/the-line)
 - Unity Technologies. https://unity.com/
 - Google Arts & Culture. https://artsandculture.google.com
 - Google Labs. https://labs.google
