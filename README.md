@@ -97,7 +97,7 @@ Hoy en día vivimos en una época donde la cultura es mas híbrida y entender bi
 
 ### Referencias
 
-- Manovich, L. (s.f.). El software toma el mando. Editorial Advisory Board.
+- Manovich, L. (2013). El software toma el mando. Editorial UOC.
 - Adell Español, F. (2024). Fundamentos y evolución de la multimedia. UOC.
 - Markdown. (s.f.). La guía definitiva en español. https://markdown.es/
 - ARVORE Studio. (2020). *The Line*.[ https://www.arvore.io/theline](https://arvore.io/project/the-line)
